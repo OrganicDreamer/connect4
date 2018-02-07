@@ -9,4 +9,4 @@ pip install pygame
 
 python playConnect4.py
 
-3. Alternatively open this directory with your favourite IDE with the latest Python interpreter and run playConnect4.py
+3. Alternatively open this directory and with your favourite IDE with the latest Python interpreter and open and run playConnect4.py
