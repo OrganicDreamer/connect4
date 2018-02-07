@@ -5,6 +5,8 @@ A quick implementation of connect 4, which can be modified for different grid si
 
 pip install pygame
 
-2. Navigate to this directory and run main script. From command line:
+2. To play, navigate to this directory and run main script. From command line:
 
 python playConnect4.py
+
+3. Alternatively open this directory with your favourite IDE with the latest Python interpreter and run playConnect4.py
